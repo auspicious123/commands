@@ -1,0 +1,2 @@
+To bypass php version while composer install
+composer install --ignore-platform-reqs
